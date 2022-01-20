@@ -1,0 +1,39 @@
+baseURL = "https://edfarrow.github.io/"
+languageCode = "en-GB"
+title = "@edfarrow"
+copyright = "Copyright &copy; 2021 - @edfarrow"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "@edfarrow"
+    github = "edfarrow"
+    #gitlab = "username"
+    #linkedin = "edfarrow"
+    #facebook = "username"
+    #twitter = "ds_says"
+    #instagram = "username"
+    #stackoverflow = "username"
+    #youtube = "user/username" # or channel/channelname
+    #devto = "username"
+
+[params]
+    tagline = "Writing down useful bits that I come across."
+    #description = ""
+    #images = [""] #This is used for opengraph/twitter cards.
+    customCSS = []  #Optional Customised CSS
+    #favicon = ""
+    #utterancesRepo = "username/repository"
+    #utterancesIssueTerm = "pathname"
+    #homepageLength = 10
+    #commentAutoload = true  #This mean reader don't need click, disqus comment autoload
+    #mathjax = true #Enable display of mathematics using mathjax (LaTeX syntax)
+    #katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
+    #google_fonts = ["Staatliches"] # Adds additional google fonts
+    #disableDarkModeCSS = false # disables css style for users using dark-mode
